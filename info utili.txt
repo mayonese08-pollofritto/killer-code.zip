@@ -1,0 +1,11 @@
+ISAAC è l'unico sistema operativo programmabile per hacker e IP hunter
+grazie allo script di ISAAC potrete apportare modifiche al sistema operativo
+ISAAC in oltre è stato aggiunto il mod 7 di connessione remota tramite IP 
+ISAAC non è utilizzabbile su MAC di ogni tipo nessun WINDOWS dal 0/1/2/3/4/5/6/7/8/9 con ubnuntu kali linux linux ecc. ma solo con windows 10/11
+in oltre per essere utilizzato al 100% devi scaricare i programmi ripotati successivamente
+e dalla beta in poi sarà utilizzabbile CHATCRACK un programma di diagnostica WINDOWS 10/11
+ requisiti :
+-windpws 10/11
+-Nmap.exe
+-process hacker2.exe
+programma di killercode
